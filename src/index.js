@@ -12,7 +12,7 @@ root.render(
       domain="dev-58tmnphjjzgywfwj.us.auth0.com"
       clientId="6pvpeIvHeXCkg8AKsfhfc6xZWARrKxWZ"
       authorizationParams={{
-      redirect_uri:"AyurSphereCustomer.netlify.com"   //write your url here
+      redirect_uri:"ayur-sphere-customer.netlify.com"   //write your url here
      }}
     >
     <App />
